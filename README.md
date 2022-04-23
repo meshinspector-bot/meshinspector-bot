@@ -7,6 +7,8 @@ Fun facts about me:
 - 👯 I’m looking to collaborate on [MeshLib](https://github.com/MeshInspector/MeshLib)
 
 :warning: Something Isn't Working? [Report an issue anonymously](https://meshinspector.github.io/ReportIssue/)
+
+![Github snake](https://github.com/meshinspector-bot/meshinspector-bot/blob/output/github-contribution-grid-snake.svg)
 <!--
 **meshinspector-bot/meshinspector-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
